@@ -6,6 +6,6 @@
 
 {% block content %}
     {% for comision in comisiones %}
-        <p>{{ comision }}</p>
+        <p>{{ comision.nombre }} hace el curso de {{ comision.curso }} y el profesor es {{ comision.profesor }}</p>
     {% endfor %}
 {% endblock content %}
