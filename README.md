@@ -3,16 +3,22 @@ Comision: 54135
 Alumnmo: Lopez Carlos David
 
 # Acerca del proyecto
-Este proyecto es sobre un blog de noticias, dedicadas al mundo automotor.
+Este proyecto es el principio de un E.commerce, dedicado al mundo automotor.
 
 # Aplicaciones
+- Core
+- Register
 
 # Modelos
+- Persona
+- Direccion
+- Contacto
 
 # Mejoras Futuras
+- Agregar buscador de productos
+- Agregar pagina con informacion del producto
 
 # Problemas Conocidos
-
 
 
 # Lista de Comandos Utiles
